@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/card icons">
+        <file>card icons/clovers.png</file>
+        <file>card icons/hearts.png</file>
+        <file>card icons/pikes.png</file>
+        <file>card icons/tiles.png</file>
+    </qresource>
+</RCC>
